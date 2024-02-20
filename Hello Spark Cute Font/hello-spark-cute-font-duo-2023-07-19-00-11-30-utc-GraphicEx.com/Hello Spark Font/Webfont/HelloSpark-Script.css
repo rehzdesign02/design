@@ -1,0 +1,12 @@
+/* Webfont: HelloSpark-Script */@font-face {
+    font-family: 'HelloSparkScript';
+    src: url('HelloSpark-Script.eot'); /* IE9 Compat Modes */
+    src: url('HelloSpark-Script.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('HelloSpark-Script.woff') format('woff'), /* Modern Browsers */
+         url('HelloSpark-Script.woff2') format('woff2'), /* Modern Browsers */
+         url('HelloSpark-Script.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
